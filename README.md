@@ -38,7 +38,7 @@ To get up and running with the project locally:
 
    ```bash
    git clone https://github.com/lolekmakso/Bike-landing.git
-   cd your-repo-name
+   cd Bike-landing
    ```
 
 2. **Install dependencies**
